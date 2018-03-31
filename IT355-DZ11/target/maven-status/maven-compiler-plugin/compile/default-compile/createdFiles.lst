@@ -1,0 +1,14 @@
+com\it355\dz11\config\MessagingListenerConfiguration.class
+com\it355\dz11\model\Order.class
+com\it355\dz11\service\OrderRepositoryImpl.class
+com\it355\dz11\service\OrderRepository.class
+com\it355\dz11\msg\MessageSender.class
+com\it355\dz11\config\AppConfig.class
+com\it355\dz11\config\AppInitializer.class
+com\it355\dz11\msg\MessageSender$1.class
+com\it355\dz11\service\OrderService.class
+com\it355\dz11\service\OrderServiceImpl.class
+com\it355\dz11\config\MessagingConfiguration.class
+com\it355\dz11\controller\Controller.class
+com\it355\dz11\util\IdGenerator.class
+com\it355\dz11\model\OrderStatus.class
